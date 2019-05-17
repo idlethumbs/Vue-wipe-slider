@@ -3,4 +3,4 @@
 Diagonal wipe effect image slider
 
 
-##Adding to repo soon
+#Adding to repo soon
